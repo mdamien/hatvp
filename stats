@@ -1,0 +1,69 @@
+
+pays    -    90 values, 4 distincts
+----
+95.6% (86) FRANCE
+2.2% (2) France
+1.1% (1) ROYAUME-UNI
+1.1% (1) 
+
+
+categorieOrganisation.label    -    90 values, 7 distincts
+----
+42.2% (38) Organisation professionnelle
+32.2% (29) Société commerciale
+11.1% (10) Association
+7.8% (7) Cabinet de conseil
+3.3% (3) Chambre consulaire
+2.2% (2) Syndicat
+1.1% (1) Autres organisations
+
+
+codePostal    -    90 values, 59 distincts
+----
+18.9% (17) 75008
+4.4% (4) 75009
+4.4% (4) 75010
+3.3% (3) 75012
+3.3% (3) 75017
+3.3% (3) 75011
+2.2% (2) 92100
+2.2% (2) 75002
+2.2% (2) 92506
+1.1% (1) 97400
+
+
+departement    -    90 values, 20 distincts
+----
+58.9% (53) 75
+15.6% (14) 92
+3.3% (3) 97
+3.3% (3) 59
+2.2% (2) 69
+1.1% (1) 14
+1.1% (1) 44
+1.1% (1) 91
+1.1% (1) 13
+1.1% (1) 34
+
+
+listSecteursActivites.label    -    319 values, 29 distincts
+----
+13.2% (42) Santé, sécurité sociale
+9.4% (30) Travail, emploi, solidarité
+7.8% (25) Numérique
+7.2% (23) Banques, assurances, secteur financier
+7.2% (23) Environnement
+6.3% (20) Economie
+6.0% (19) Fiscalité, finances publiques
+5.6% (18) Concurrence, consommation
+5.6% (18) Recherche, innovation
+5.0% (16) Energie
+
+
+listNiveauIntervention.label    -    216 values, 4 distincts
+----
+38.9% (84) National
+28.2% (61) Local
+23.1% (50) Européen
+9.7% (21) Mondial
+

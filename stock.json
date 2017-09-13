@@ -1,0 +1,4387 @@
+[
+   {
+      "denomination":"CHAMBRE COMMERCE INDUSTRIE DE LA DROME",
+      "categorieOrganisation":{
+         "code":"CHAMCO",
+         "label":"Chambre consulaire",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"VALENCE CEDEX",
+      "codePostal":"26010",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"ENTREPRISE",
+               "label":"Gouvernance d’entreprise",
+               "ordre":14
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            }
+         ]
+      },
+      "identifiantNational":"182630012",
+      "datePremierePublication":"29/08/2017 16:25:35"
+   },
+   {
+      "denomination":"GRTGAZ",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"BOIS COLOMBES CEDEX",
+      "codePostal":"92277",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"440117620",
+      "datePremierePublication":"08/08/2017 11:31:20"
+   },
+   {
+      "denomination":"MUTUALITE FRANCAISE DE LA REUNION",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"ST DENIS",
+      "codePostal":"97400",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"OUTREMER",
+               "label":"Outre-mer",
+               "ordre":20
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"815119748",
+      "datePremierePublication":"08/08/2017 12:03:24"
+   },
+   {
+      "denomination":"ASSO FRANCAISE INVESTISSEURS EN CAPITAL",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"349165779",
+      "datePremierePublication":"31/08/2017 18:39:23"
+   },
+   {
+      "denomination":"FEDER BATIMENT REGION BOURGOGN",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"DIJON CEDEX",
+      "codePostal":"21024",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            }
+         ]
+      },
+      "identifiantNational":"778213108",
+      "datePremierePublication":"16/08/2017 09:49:35"
+   },
+   {
+      "denomination":"KEOLIS",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 09",
+      "codePostal":"75320",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"552111809",
+      "datePremierePublication":"28/08/2017 18:08:18"
+   },
+   {
+      "denomination":"ASSOCIATION NATIONALE DE PREVENTION EN ALCOOLOGIE ET ADDICTOLOGIE",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75002",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"SOCIETE",
+               "label":"Questions de société",
+               "ordre":26
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"775660087",
+      "datePremierePublication":"31/08/2017 17:13:52"
+   },
+   {
+      "denomination":"MOUVEMENT DES ENTREPRISES DE FRANCE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 07",
+      "codePostal":"75330",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"ENTREPRISE",
+               "label":"Gouvernance d’entreprise",
+               "ordre":14
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"784668618",
+      "datePremierePublication":"07/08/2017 12:37:17"
+   },
+   {
+      "denomination":"FEDERATION FRANCAISE DU BATIMENT",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 16",
+      "codePostal":"75784",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"784668642",
+      "datePremierePublication":"30/08/2017 15:22:39"
+   },
+   {
+      "denomination":"SOCIETE NATIONALE D'EXPLOITATION INDUSTRIELLE DES TABACS ET ALLUMETTES",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75014",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"PROPINT",
+               "label":"Propriété intellectuelle",
+               "ordre":23
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"331355263",
+      "datePremierePublication":"11/09/2017 10:47:09"
+   },
+   {
+      "denomination":"CONSEIL DU COMMERCE DE FRANCE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"784856528",
+      "datePremierePublication":"07/09/2017 14:58:26"
+   },
+   {
+      "denomination":"GRAYLING FRANCE",
+      "categorieOrganisation":{
+         "code":"COCAB",
+         "label":"Cabinet de conseil",
+         "categorie":"AVO_CONS"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75012",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"SPORTS",
+               "label":"Sports, loisirs, tourisme",
+               "ordre":27
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"330005620",
+      "datePremierePublication":"01/09/2017 16:13:20"
+   },
+   {
+      "denomination":"ANTHENOR PUBLIC AFFAIRS",
+      "categorieOrganisation":{
+         "code":"COCAB",
+         "label":"Cabinet de conseil",
+         "categorie":"AVO_CONS"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"AGRI",
+               "label":"Agriculture, alimentation, pêche",
+               "ordre":2
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"450089107",
+      "datePremierePublication":"05/09/2017 18:47:31"
+   },
+   {
+      "denomination":"CHAMBRE DE COMMERCE ET D INDUSTRIE DES VOSGES",
+      "categorieOrganisation":{
+         "code":"CHAMCO",
+         "label":"Chambre consulaire",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"EPINAL CEDEX",
+      "codePostal":"88026",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"PUBLIC",
+               "label":"Pouvoirs publics, institutions, fonction publique",
+               "ordre":21
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            }
+         ]
+      },
+      "identifiantNational":"188822118",
+      "datePremierePublication":"11/08/2017 11:45:47"
+   },
+   {
+      "denomination":"RTE RESEAU DE TRANSPORT D'ELECTRICITE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS LA DEFENSE CEDEX",
+      "codePostal":"92919",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"444619258",
+      "datePremierePublication":"08/09/2017 15:29:19"
+   },
+   {
+      "denomination":"SYNDICAT NATIONAL DES INDUSTRIES AROMATIQUES ALIMENTAIRES",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PUTEAUX",
+      "codePostal":"92800",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"AGRI",
+               "label":"Agriculture, alimentation, pêche",
+               "ordre":2
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"315398248",
+      "datePremierePublication":"30/08/2017 11:22:06"
+   },
+   {
+      "denomination":"ASSOCIATION FRANCAISE DES SOCIETES DE PLACEMENT IMMOBILIER",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"PROREG",
+               "label":"Professions réglementées",
+               "ordre":22
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"304248669",
+      "datePremierePublication":"30/08/2017 17:11:53"
+   },
+   {
+      "denomination":"UNICORP",
+      "categorieOrganisation":{
+         "code":"COCAB",
+         "label":"Cabinet de conseil",
+         "categorie":"AVO_CONS"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"440889731",
+      "datePremierePublication":"16/08/2017 11:53:44"
+   },
+   {
+      "denomination":"LE CERCLE DE L'INDUSTRIE",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"394192389",
+      "datePremierePublication":"05/09/2017 15:32:40"
+   },
+   {
+      "denomination":"FEDERATION NATIONALE DE L'INFORMATION D'ENTREPRISE DE LA GESTION DE CREANCES ET DE L'ENQUETE CIVILE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"NANTERRE",
+      "codePostal":"92000",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"JUSTICE",
+               "label":"Justice",
+               "ordre":16
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"418086252",
+      "datePremierePublication":"22/08/2017 11:00:14"
+   },
+   {
+      "denomination":"OPENCLASSROOMS",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"France",
+      "ville":"PARIS 10",
+      "codePostal":"75010",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"493861363",
+      "datePremierePublication":"28/08/2017 09:51:36"
+   },
+   {
+      "denomination":"FEDERATION NATIONALE DES RESERVISTES OPERATIONNELS ET CITOYENS DE LA GENDARMERIE NATIONALE",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75002",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ETRANGER",
+               "label":"Affaires étrangères, coopération internationale",
+               "ordre":1
+            },
+            {
+               "code":"SECURITE",
+               "label":"Défense, sécurité",
+               "ordre":7
+            },
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"JUSTICE",
+               "label":"Justice",
+               "ordre":16
+            },
+            {
+               "code":"PUBLIC",
+               "label":"Pouvoirs publics, institutions, fonction publique",
+               "ordre":21
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"419508379",
+      "datePremierePublication":"15/08/2017 08:40:06"
+   },
+   {
+      "denomination":"UNION NATIONALE DES ORGANISMES D ASSURANCE MALADIE COMPLEMENTAIRE",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75006",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"PUBLIC",
+               "label":"Pouvoirs publics, institutions, fonction publique",
+               "ordre":21
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"488509191",
+      "datePremierePublication":"05/09/2017 10:06:26"
+   },
+   {
+      "denomination":"SOC VELUX FRANCE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"MORANGIS",
+      "codePostal":"91420",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"970200044",
+      "datePremierePublication":"01/09/2017 14:36:58"
+   },
+   {
+      "denomination":"EUROSTAR INTERNATIONAL LIMITED",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"ROYAUME-UNI",
+      "ville":"Londres",
+      "codePostal":"N19AW",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"MIGRA",
+               "label":"Questions migratoires",
+               "ordre":24
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"525010708",
+      "datePremierePublication":"07/08/2017 17:14:00"
+   },
+   {
+      "denomination":"FEDERATION NATIONALE TRANSPORT VOYAGEURS",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75009",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"393264379",
+      "datePremierePublication":"23/08/2017 17:14:47"
+   },
+   {
+      "denomination":"TRANSPARENCY INTERNATIONAL FRANCE",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75010",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"ENTREPRISE",
+               "label":"Gouvernance d’entreprise",
+               "ordre":14
+            },
+            {
+               "code":"JUSTICE",
+               "label":"Justice",
+               "ordre":16
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"PUBLIC",
+               "label":"Pouvoirs publics, institutions, fonction publique",
+               "ordre":21
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"425138393",
+      "datePremierePublication":"31/08/2017 10:39:41"
+   },
+   {
+      "denomination":"PIERRE FABRE SA",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"662006170",
+      "datePremierePublication":"04/09/2017 12:43:40"
+   },
+   {
+      "denomination":"BOMBARDIER TRANSPORT FRANCE S.A.S",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"CRESPIN",
+      "codePostal":"59154",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"698800935",
+      "datePremierePublication":"07/09/2017 12:22:17"
+   },
+   {
+      "denomination":"TRANSDEV GROUP",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"ISSY LES MOULINEAUX CEDEX",
+      "codePostal":"92442",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENTREPRISE",
+               "label":"Gouvernance d’entreprise",
+               "ordre":14
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"521477851",
+      "datePremierePublication":"29/08/2017 10:22:00"
+   },
+   {
+      "denomination":"TELEVISION FRANCAISE 1",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"BOULOGNE BILLANCOURT CEDEX",
+      "codePostal":"92656",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"MEDIA",
+               "label":"Médias, industries culturelles",
+               "ordre":18
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"PROPINT",
+               "label":"Propriété intellectuelle",
+               "ordre":23
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"326300159",
+      "datePremierePublication":"31/08/2017 16:34:33"
+   },
+   {
+      "denomination":"ASSOCIATION FRANÇAISE DES COURTIERS ET PRESTATAIRES DE SERVICES D'INVESTISSEMENT (AFCOPSI)",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS 8E",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"COM",
+               "label":"Communications électroniques",
+               "ordre":28
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"W751233653",
+      "datePremierePublication":"31/08/2017 22:32:33"
+   },
+   {
+      "denomination":"UNION DES EMPLOYEURS DE L'ECONOMIE SOCIALE ET SOLIDAIRE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75012",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"410168512",
+      "datePremierePublication":"16/08/2017 18:25:13"
+   },
+   {
+      "denomination":"ABBVIE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"RUNGIS CEDEX 1",
+      "codePostal":"94528",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"750775660",
+      "datePremierePublication":"31/08/2017 11:55:36"
+   },
+   {
+      "denomination":"UNION  TRANSPORTS PUBLICS FERROVIAIRES",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"784408643",
+      "datePremierePublication":"05/09/2017 10:47:46"
+   },
+   {
+      "denomination":"ROHDE PUBLIC POLICY",
+      "categorieOrganisation":{
+         "code":"COCAB",
+         "label":"Cabinet de conseil",
+         "categorie":"AVO_CONS"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"SOCIETE",
+               "label":"Questions de société",
+               "ordre":26
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"752026054",
+      "datePremierePublication":"18/08/2017 10:18:29"
+   },
+   {
+      "denomination":"CHAMBRE SYNDICAL DES LOUEURS",
+      "categorieOrganisation":{
+         "code":"SYNDI",
+         "label":"Syndicat",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"LEVALLOIS PERRET",
+      "codePostal":"92300",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"785388356",
+      "datePremierePublication":"23/08/2017 19:30:41"
+   },
+   {
+      "denomination":"FRANCE HYDRO ELECTRICITE GPAE ECOWATT",
+      "categorieOrganisation":{
+         "code":"SYNDI",
+         "label":"Syndicat",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"PUBLIC",
+               "label":"Pouvoirs publics, institutions, fonction publique",
+               "ordre":21
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            }
+         ]
+      },
+      "identifiantNational":"420030967",
+      "datePremierePublication":"25/08/2017 15:21:44"
+   },
+   {
+      "denomination":"ROCHE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"BOULOGNE BILLANCOURT CEDEX",
+      "codePostal":"92650",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"552012031",
+      "datePremierePublication":"31/08/2017 17:43:34"
+   },
+   {
+      "denomination":"MUTUALITE FRANCAISE DE GUYANE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"CAYENNE",
+      "codePostal":"97300",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"OUTREMER",
+               "label":"Outre-mer",
+               "ordre":20
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"501896336",
+      "datePremierePublication":"11/09/2017 08:48:07"
+   },
+   {
+      "denomination":"GRDF",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 09",
+      "codePostal":"75436",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"444786511",
+      "datePremierePublication":"17/08/2017 12:37:12"
+   },
+   {
+      "denomination":"GPT DES INDUSTRIELS ET FABRICANTS  OPTIQUE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75012",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"COMMERCE",
+               "label":"Commerce extérieur",
+               "ordre":5
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"PROPINT",
+               "label":"Propriété intellectuelle",
+               "ordre":23
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"784358012",
+      "datePremierePublication":"31/08/2017 12:23:05"
+   },
+   {
+      "denomination":"IMAGE 7",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75017",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"MEDIA",
+               "label":"Médias, industries culturelles",
+               "ordre":18
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"532572112",
+      "datePremierePublication":"31/08/2017 17:46:53"
+   },
+   {
+      "denomination":"ASSOCIATION NAT SOCIETES PAR ACTIONS",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75017",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"ENTREPRISE",
+               "label":"Gouvernance d’entreprise",
+               "ordre":14
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"784718561",
+      "datePremierePublication":"29/08/2017 17:27:50"
+   },
+   {
+      "denomination":"SYND NAT FABRI COMMER PRODU USAGE PHARMA",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"313104382",
+      "datePremierePublication":"28/08/2017 15:34:55"
+   },
+   {
+      "denomination":"BRISTOL MYERS SQUIBB",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"RUEIL MALMAISON CEDEX",
+      "codePostal":"92506",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"562011742",
+      "datePremierePublication":"05/09/2017 17:05:12"
+   },
+   {
+      "denomination":"UNION NATION INDUSTR AMEUBL",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"",
+      "ville":"PARIS 11",
+      "codePostal":"75011",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"784522559",
+      "datePremierePublication":"05/09/2017 15:02:06"
+   },
+   {
+      "denomination":"NOVARTIS PHARMA SAS",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"RUEIL MALMAISON CEDEX",
+      "codePostal":"92506",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"410349070",
+      "datePremierePublication":"25/08/2017 12:40:39"
+   },
+   {
+      "denomination":"RUMEUR PUBLIQUE",
+      "categorieOrganisation":{
+         "code":"COCAB",
+         "label":"Cabinet de conseil",
+         "categorie":"AVO_CONS"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75017",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"524866241",
+      "datePremierePublication":"05/09/2017 14:50:07"
+   },
+   {
+      "denomination":"COVESTRO (FRANCE) SNC",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"FOS SUR MER",
+      "codePostal":"13270",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"COMMERCE",
+               "label":"Commerce extérieur",
+               "ordre":5
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"429659824",
+      "datePremierePublication":"21/08/2017 09:43:16"
+   },
+   {
+      "denomination":"PRIMUM NON NOCERE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"BEZIERS",
+      "codePostal":"34500",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"AGRI",
+               "label":"Agriculture, alimentation, pêche",
+               "ordre":2
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"514604453",
+      "datePremierePublication":"24/08/2017 09:07:26"
+   },
+   {
+      "denomination":"MUTUALITE FRANCAISE DE GUADELOUPE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"POINTE A PITRE",
+      "codePostal":"97110",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"OUTREMER",
+               "label":"Outre-mer",
+               "ordre":20
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"507928927",
+      "datePremierePublication":"08/08/2017 12:11:48"
+   },
+   {
+      "denomination":"SYNDICAT NATIONAL PUBLICITE TELEVISEE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"BOULOGNE BILLANCOURT",
+      "codePostal":"92100",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"MEDIA",
+               "label":"Médias, industries culturelles",
+               "ordre":18
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"421240508",
+      "datePremierePublication":"31/08/2017 17:31:14"
+   },
+   {
+      "denomination":"MUTUALITE FRANCAISE POITOU CHARENTES",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"POITIERS",
+      "codePostal":"86000",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"444529366",
+      "datePremierePublication":"08/08/2017 11:56:51"
+   },
+   {
+      "denomination":"SYND FEDERATION  FRANCAISE DU BATIMENT GRAND PARIS",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 17",
+      "codePostal":"75852",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"784718033",
+      "datePremierePublication":"05/09/2017 11:36:26"
+   },
+   {
+      "denomination":"RENAISSANCE NUMERIQUE",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75011",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"SOCIETE",
+               "label":"Questions de société",
+               "ordre":26
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"501629232",
+      "datePremierePublication":"21/08/2017 15:04:39"
+   },
+   {
+      "denomination":"FED IDUST ELECTR ELECTRONIQUES  COMMUNIC",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75116",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"COM",
+               "label":"Communications électroniques",
+               "ordre":28
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"775688443",
+      "datePremierePublication":"29/08/2017 11:34:36"
+   },
+   {
+      "denomination":"FEDERATION BANCAIRE FRANCAISE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 09",
+      "codePostal":"75440",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"434987582",
+      "datePremierePublication":"05/09/2017 19:06:23"
+   },
+   {
+      "denomination":"CONSEIL NATIONAL DE L ORDRE DES PHARMACIENS",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"OUTREMER",
+               "label":"Outre-mer",
+               "ordre":20
+            },
+            {
+               "code":"PROREG",
+               "label":"Professions réglementées",
+               "ordre":22
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"784359549",
+      "datePremierePublication":"16/08/2017 12:24:27"
+   },
+   {
+      "denomination":"SYNTEC INGENIERIE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"384718839",
+      "datePremierePublication":"31/08/2017 18:30:38"
+   },
+   {
+      "denomination":"PFIZER",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 14",
+      "codePostal":"75668",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"433623550",
+      "datePremierePublication":"08/09/2017 14:43:19"
+   },
+   {
+      "denomination":"MUTUALITE FRANCAISE NORMANDIE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"CAEN",
+      "codePostal":"14000",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"444628275",
+      "datePremierePublication":"11/09/2017 08:47:33"
+   },
+   {
+      "denomination":"PIERRE FABRE MEDICAMENT",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"BOULOGNE BILLANCOURT",
+      "codePostal":"92100",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"326118502",
+      "datePremierePublication":"05/09/2017 17:32:11"
+   },
+   {
+      "denomination":"KOZ",
+      "categorieOrganisation":{
+         "code":"COCAB",
+         "label":"Cabinet de conseil",
+         "categorie":"AVO_CONS"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75010",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CULTURE",
+               "label":"Arts, patrimoine culturel",
+               "ordre":3
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"824971154",
+      "datePremierePublication":"10/08/2017 18:26:31"
+   },
+   {
+      "denomination":"MUTUALITE FRANCAISE AQUITAINE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"BORDEAUX",
+      "codePostal":"33000",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"442250304",
+      "datePremierePublication":"31/08/2017 08:16:12"
+   },
+   {
+      "denomination":"UNION NATIONALE POUR LA PROMOTION ET LE DEVELOPPPEMENT DE LA LOCATION DE VACANCES",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75010",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"SPORTS",
+               "label":"Sports, loisirs, tourisme",
+               "ordre":27
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"W751216334",
+      "datePremierePublication":"01/09/2017 11:20:55"
+   },
+   {
+      "denomination":"FEDE FRANCAISE INDUS JOUET PUERICULTURE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"SPORTS",
+               "label":"Sports, loisirs, tourisme",
+               "ordre":27
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"784717407",
+      "datePremierePublication":"17/08/2017 18:03:08"
+   },
+   {
+      "denomination":"UNION MUT FRANCAISE PAYS DE LA LOIRE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"NANTES CEDEX 2",
+      "codePostal":"44273",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"352137848",
+      "datePremierePublication":"08/08/2017 11:41:41"
+   },
+   {
+      "denomination":"COMPAGNIE EUROPEENNE D'INTELLIGENCE STRATEGIQUE (CEIS)",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75015",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"SECURITE",
+               "label":"Défense, sécurité",
+               "ordre":7
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"414881821",
+      "datePremierePublication":"18/08/2017 15:14:06"
+   },
+   {
+      "denomination":"ASS PROFESSIONNELLE BANQUES",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75009",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"775675887",
+      "datePremierePublication":"05/09/2017 19:08:09"
+   },
+   {
+      "denomination":"HOMEAWAY FRANCE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 10",
+      "codePostal":"75468",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"493457741",
+      "datePremierePublication":"01/09/2017 11:22:00"
+   },
+   {
+      "denomination":"GUERBET",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"VILLEPINTE",
+      "codePostal":"93420",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"COMMERCE",
+               "label":"Commerce extérieur",
+               "ordre":5
+            },
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"308491521",
+      "datePremierePublication":"01/09/2017 17:31:03"
+   },
+   {
+      "denomination":"CHAMBRE SYND REPARTITION PHARMACEUTIQUE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"333593556",
+      "datePremierePublication":"30/08/2017 10:11:09"
+   },
+   {
+      "denomination":"AUCHAN RETAIL FRANCE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"France",
+      "ville":"CROIX",
+      "codePostal":"59170",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"AGRI",
+               "label":"Agriculture, alimentation, pêche",
+               "ordre":2
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"481986446",
+      "datePremierePublication":"01/09/2017 16:26:29"
+   },
+   {
+      "denomination":"MUTUELLE GENERALE EDUCATION NATIONALE",
+      "categorieOrganisation":{
+         "code":"AUORG",
+         "label":"Autres organisations",
+         "categorie":"AUTRE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 15",
+      "codePostal":"75748",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"CONSO",
+               "label":"Concurrence, consommation",
+               "ordre":6
+            },
+            {
+               "code":"PUBLIC",
+               "label":"Pouvoirs publics, institutions, fonction publique",
+               "ordre":21
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"775685399",
+      "datePremierePublication":"05/09/2017 15:50:43"
+   },
+   {
+      "denomination":"UNITIS  EUROPEAN ORGANIZATION OF COSMETIC INGREDIENTS INDUSTRIES AND SERVICES",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75008",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"752328328",
+      "datePremierePublication":"28/08/2017 15:35:36"
+   },
+   {
+      "denomination":"SOCIETE GENERALE",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75009",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"552120222",
+      "datePremierePublication":"31/08/2017 18:36:06"
+   },
+   {
+      "denomination":"UNION REGIONALE MUTUALITE FRANCAISE HAUT DE FRANCE NORD PAS DE CALAIS PICARDIE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"LILLE",
+      "codePostal":"59800",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"443811211",
+      "datePremierePublication":"12/09/2017 10:12:36"
+   },
+   {
+      "denomination":"INSTITUT DE LA PROTECTION SOCIALE",
+      "categorieOrganisation":{
+         "code":"ASSOC",
+         "label":"Association",
+         "categorie":"ORGA_NON_GOUV"
+      },
+      "pays":"FRANCE",
+      "ville":"LYON",
+      "codePostal":"69003",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"FINANCES",
+               "label":"Fiscalité, finances publiques",
+               "ordre":13
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"539540492",
+      "datePremierePublication":"04/09/2017 15:02:42"
+   },
+   {
+      "denomination":"MUTUALITE FRANCAISE ILE DE FRANCE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75009",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"518102975",
+      "datePremierePublication":"11/09/2017 08:50:37"
+   },
+   {
+      "denomination":"UNION REG MUTUALITE FRANCAISE REG CENTRE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"BLOIS",
+      "codePostal":"41000",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"333645034",
+      "datePremierePublication":"08/08/2017 11:11:12"
+   },
+   {
+      "denomination":"FEDERATION FRANCAISE BATIMENT AUVERGNE RHONE ALPES",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"VILLEURBANNE",
+      "codePostal":"69100",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            }
+         ]
+      },
+      "identifiantNational":"779786987",
+      "datePremierePublication":"04/09/2017 11:01:49"
+   },
+   {
+      "denomination":"KERING",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 07",
+      "codePostal":"75345",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            },
+            {
+               "code":"ENTREPRISE",
+               "label":"Gouvernance d’entreprise",
+               "ordre":14
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"PROPINT",
+               "label":"Propriété intellectuelle",
+               "ordre":23
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            }
+         ]
+      },
+      "identifiantNational":"552075020",
+      "datePremierePublication":"22/08/2017 11:44:17"
+   },
+   {
+      "denomination":"CCI FRANCE",
+      "categorieOrganisation":{
+         "code":"CHAMCO",
+         "label":"Chambre consulaire",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 17",
+      "codePostal":"75858",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"COMMERCE",
+               "label":"Commerce extérieur",
+               "ordre":5
+            },
+            {
+               "code":"ECONOMIE",
+               "label":"Economie",
+               "ordre":8
+            },
+            {
+               "code":"EDUCATION",
+               "label":"Education, enseignement supérieur, formation",
+               "ordre":9
+            },
+            {
+               "code":"AMENAGEMENT",
+               "label":"Logement, aménagement du territoire, urbanisme",
+               "ordre":17
+            },
+            {
+               "code":"NUMERIQUE",
+               "label":"Numérique",
+               "ordre":19
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            },
+            {
+               "code":"MONDIAL",
+               "label":"Mondial",
+               "ordre":4
+            }
+         ]
+      },
+      "identifiantNational":"187500020",
+      "datePremierePublication":"04/08/2017 15:20:59"
+   },
+   {
+      "denomination":"SEANCE PUBLIQUE",
+      "categorieOrganisation":{
+         "code":"COCAB",
+         "label":"Cabinet de conseil",
+         "categorie":"AVO_CONS"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75007",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"AGRI",
+               "label":"Agriculture, alimentation, pêche",
+               "ordre":2
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"438568610",
+      "datePremierePublication":"17/08/2017 15:13:56"
+   },
+   {
+      "denomination":"UPSA SAS",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"RUEIL MALMAISON",
+      "codePostal":"92500",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"803247956",
+      "datePremierePublication":"06/09/2017 09:55:17"
+   },
+   {
+      "denomination":"LABORATOIRES ALCON",
+      "categorieOrganisation":{
+         "code":"SOCOM",
+         "label":"Société commerciale",
+         "categorie":"SOCIETE"
+      },
+      "pays":"FRANCE",
+      "ville":"RUEIL MALMAISON CEDEX",
+      "codePostal":"92563",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"RECHERCHE",
+               "label":"Recherche, innovation",
+               "ordre":12
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"652009044",
+      "datePremierePublication":"04/09/2017 11:34:46"
+   },
+   {
+      "denomination":"ASS EUROPEEN VEHICULE ELECTRIQ ROUTIERS",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS",
+      "codePostal":"75011",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"ENERGIE",
+               "label":"Energie",
+               "ordre":11
+            },
+            {
+               "code":"TRANSPORTS",
+               "label":"Transports, logistique",
+               "ordre":29
+            },
+            {
+               "code":"ENVIRONNEMENT",
+               "label":"Environnement",
+               "ordre":15
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"381166792",
+      "datePremierePublication":"05/09/2017 09:14:04"
+   },
+   {
+      "denomination":"FEDERATION NATIONALE MUTUALITE FRANCAISE",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"PARIS CEDEX 15",
+      "codePostal":"75719",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            },
+            {
+               "code":"EUROPEEN",
+               "label":"Européen",
+               "ordre":3
+            }
+         ]
+      },
+      "identifiantNational":"304426240",
+      "datePremierePublication":"08/08/2017 11:08:41"
+   },
+   {
+      "denomination":"UNION REGIONALE MUT FRANCAISE LIMOUSIN",
+      "categorieOrganisation":{
+         "code":"ORPRO",
+         "label":"Organisation professionnelle",
+         "categorie":"ORGA_REP"
+      },
+      "pays":"FRANCE",
+      "ville":"LIMOGES",
+      "codePostal":"87000",
+      "activites":{
+         "listSecteursActivites":[
+            {
+               "code":"FINANCE",
+               "label":"Banques, assurances, secteur financier",
+               "ordre":4
+            },
+            {
+               "code":"EMPLOI",
+               "label":"Travail, emploi, solidarité",
+               "ordre":10
+            },
+            {
+               "code":"SANTE",
+               "label":"Santé, sécurité sociale",
+               "ordre":25
+            }
+         ],
+         "listNiveauIntervention":[
+            {
+               "code":"LOCAL",
+               "label":"Local",
+               "ordre":1
+            },
+            {
+               "code":"NATIONAL",
+               "label":"National",
+               "ordre":2
+            }
+         ]
+      },
+      "identifiantNational":"444087704",
+      "datePremierePublication":"08/08/2017 11:30:56"
+   }
+]
