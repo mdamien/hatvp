@@ -2,26 +2,34 @@ import json, random
 
 from lys import L, raw
 
-def nice_dump(item):
+KEYS_BLACKLIST = ('motif',)
+
+def nice_dump(item, prev_key=None):
     if item is None:
         return '-'
     if type(item) is str:
         return item
     if type(item) is dict:
-        out = L.ul / (
+        # todo: mandat.label: dsasd
+        if len(item.keys()) == 1:
+            key = list(item.keys())[0]
+            if key == prev_key:
+                return nice_dump(item[prev_key])
+        out = L.ul(style='list-style: none;padding-left:25px') / (
             (
                 L.li / (
-                    key,
+                    L.small / key,
                     ': ',
-                    nice_dump(val),
+                    nice_dump(val, prev_key=key),
                 )
-            ) for key, val in sorted(item.items(), key=lambda it:it[0])
+            ) for key, val in sorted(item.items(), key=lambda it:it[0]) if key not in KEYS_BLACKLIST
         )
         return out
     if type(item) is list:
-        out = L.ul / (
+        out = L.ul(style='list-style: none;padding-left:25px') / (
             (
                 L.li / (
+                    '-',
                     nice_dump(val),
                 )
             ) for val in item
@@ -31,7 +39,8 @@ def nice_dump(item):
 
 DATA = json.load(open('declarations.json'))['declarations']['declaration']
 
-# random.shuffle(DATA)
+random.seed(1)
+random.shuffle(DATA)
 
 decls = []
 for decl in DATA:
@@ -63,13 +72,19 @@ for decl in DATA:
             ))
         return result
 
+    i = 0
     def basic(key, title, no_item):
-        return (
-            L.h2 / title,
-            nice_dump(get(key + '.items.items')),
-        ) if get(key + '.items.items') else (
-            L.h4 / no_item,
-        ),
+        global i
+        color = ['#4caf50', '#689F38'][i % 2]
+        i += 1
+        return L.div(style='border-left:10px solid %s;padding-left:10px' % color) / (
+            (
+                L.h3 / title,
+                nice_dump(get(key + '.items.items')),
+            ) if get(key + '.items.items') else (
+                L.h4 / no_item,
+            )
+        )
 
     decls.append(L.div / (
         L.hr(style="border: 10px solid #009688;"),
@@ -82,8 +97,8 @@ for decl in DATA:
             'Mandat: ',
             get('general.mandat.label'),
         ),
-        L.h2 / 'Général',
-        nice_dump(get('general')),
+        L.h3 / 'Général',
+        L.div(style='border-left:10px solid #689F38;padding-left:10px') / nice_dump(get('general')),
         basic('activConsultantDto', 'Activité consultant', 'Pas d\'activité consultant'),
         basic('activProfCinqDerniereDto', 'Activité prof.', 'Pas d\'activité prof.'),
         basic('activProfConjointDto', 'Activité conjoint', 'Pas d\'activité conjoint'),
@@ -100,7 +115,7 @@ print(
     background: #cecece;
     color: #353535;
     font-size: 1.9rem;
-    width: 700px;
+    width: 900px;
     margin: auto;
     font-family: monospace;
     padding: 10px;
