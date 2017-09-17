@@ -111,7 +111,7 @@ for decl in DATA:
         raw('\n'),
     ))
 
-result = str(
+print(
     L.body(style="""
     background: #cecece;
     color: #353535;
@@ -122,12 +122,17 @@ result = str(
     padding: 10px;
 """) / (
         L.style / raw("a { color: inherit; }"),
+        L.h4(style='margin:0') / 'Déclarations des responsables publics',
+        L.small / (
+            'source: ',
+            L.a(href='http://www.hatvp.fr/consulter-les-declarations/#open-data') / 'hatvp.fr',
+        ),
+        # L.br,
+        # L.br,
+        # L.a(href='index.html') / 'Données',
+        # ' ',
+        # L.a(href='tops.html') / 'Tops',
+        L.hr,
         decls,
     )
 )
-
-
-# prettify source
-from bs4 import BeautifulSoup
-
-print(BeautifulSoup(result, 'lxml').prettify())
