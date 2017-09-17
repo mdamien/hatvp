@@ -104,13 +104,14 @@ for decl in DATA:
         basic('activProfConjointDto', 'Activité conjoint', 'Pas d\'activité conjoint'),
         basic('activConsultantDto', 'Activité consultant', 'Pas d\'activité consultant'),
         basic('fonctionBenevoleDto', 'Activité bénévole', 'Pas d\'activité bénévole'),
-        basic('participationDirigeantDto', 'Mandat électif', 'Pas de mandat électif'),
-        basic('participationFinanciereDto', 'Mandat électif', 'Pas de mandat électif'),
-        basic('observationInteretDto', 'Mandat électif', 'Pas de mandat électif'),
-
+        basic('mandatElectifDto', 'Mandat électif', 'Pas de mandat électif'),
+        basic('participationDirigeantDto', 'Participation Dirigeant', 'Pas de participation dirigeant'),
+        basic('participationFinanciereDto', 'Participation Financiére', 'Pas de participation financiére'),
+        basic('observationInteretDto', 'Observation interet', 'Pas d\'observation interet'),
+        raw('\n'),
     ))
 
-print(
+result = str(
     L.body(style="""
     background: #cecece;
     color: #353535;
@@ -124,3 +125,9 @@ print(
         decls,
     )
 )
+
+
+# prettify source
+from bs4 import BeautifulSoup
+
+print(BeautifulSoup(result, 'lxml').prettify())
