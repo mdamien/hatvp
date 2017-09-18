@@ -1,5 +1,6 @@
 import json, random, sys
 
+import slugify
 from lys import L, raw
 
 KEYS_BLACKLIST = ('motif',)
@@ -76,24 +77,28 @@ for decl in DATA:
         return result
 
     i = 0
+    id = slugify.slugify(get('general.declarant.nom') + '-' + get('general.declarant.prenom')) + '-'
     def basic(key, title, no_item):
-        global i
+        global i, id
         color = ['#4caf50', '#689F38'][i % 2]
         i += 1
 
+        """
         if get(key + '.items.items') and get(key + '.neant') != 'false':
             log_error('neant != false but items')
         if not get(key + '.items.items') and get(key + '.neant') != 'true':
             log_error('neant == true but items')
+        """
 
         return L.div(style='border-left:10px solid %s;padding-left:10px' % color) / (
             (
-                L.h3 / title,
+                L.h3(id=id+key) / title,
                 nice_dump(get(key + '.items.items')),
             ) if get(key + '.items.items') else (
                 L.h4 / no_item,
             )
         )
+
 
     decls.append(L.div / (
         L.hr(style="border: 10px solid #009688;"),
@@ -106,7 +111,7 @@ for decl in DATA:
             'Mandat: ',
             get('general.mandat.label'),
         ),
-        L.h3 / 'Général',
+        L.h3(id=id+'general') / 'Général',
         L.div(style='border-left:10px solid #689F38;padding-left:10px') / nice_dump(get('general')),
         basic('activConsultantDto', 'Activité consultant', 'Pas d\'activité consultant'),
         basic('activProfCinqDerniereDto', 'Activité prof.', 'Pas d\'activité prof.'),
@@ -119,7 +124,7 @@ for decl in DATA:
         basic('observationInteretDto', 'Observation interet', 'Pas d\'observation interet'),
         basic('activCollaborateursDto', 'Activité collaborateurs', 'Pas d\'activité de collaborateurs'),
         L.h3 / 'Informations techniques',
-        L.div(style='border-left:10px solid #444;padding-left:10px') / nice_dump({key: it for key, it in decl.items() if key not in ['general', 'activConsultantDto',
+        L.div(id=id+'extra', style='border-left:10px solid #444;padding-left:10px') / nice_dump({key: it for key, it in decl.items() if key not in ['general', 'activConsultantDto',
                     'activProfCinqDerniereDto', 'activProfConjointDto',
                     'activConsultantDto', 'fonctionBenevoleDto', 'mandatElectifDto',
                     'participationDirigeantDto', 'participationFinanciereDto', 'observationInteretDto', 'activCollaborateursDto']
