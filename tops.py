@@ -37,4 +37,9 @@ print('Les meilleurs salaires')
 print(sorted(best_of)[-5:])
 
 
-# TODO:
+# TODO: youngest, oldest 
+
+print('Ages')
+for guy in sorted(data, key=lambda x: int(x['general']["declarant"]['dateNaissance'].split('/')[-1])):
+    details = guy["general"]["declarant"]
+    print(details["nom"], details["prenom"], ':', details['dateNaissance'])

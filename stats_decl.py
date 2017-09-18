@@ -55,7 +55,7 @@ def stats_dict(dic, prefix='', data=None, display_prefix=None):
 
 stats_dict(ex['general'], 'general')
 
-dto_keys = ['activConsultantDto', 'activProfCinqDerniereDto', 'activProfConjointDto', 'activConsultantDto', 'fonctionBenevoleDto', 'mandatElectifDto', 'participationDirigeantDto', 'participationFinanciereDto', 'observationInteretDto']
+dto_keys = ['activConsultantDto', 'activProfCinqDerniereDto', 'activProfConjointDto', 'activConsultantDto', 'fonctionBenevoleDto', 'mandatElectifDto', 'participationDirigeantDto', 'participationFinanciereDto', 'observationInteretDto', 'activCollaborateursDto']
 
 def force_list(items):
     if not items:

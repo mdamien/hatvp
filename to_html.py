@@ -117,6 +117,13 @@ for decl in DATA:
         basic('participationDirigeantDto', 'Participation Dirigeant', 'Pas de participation dirigeant'),
         basic('participationFinanciereDto', 'Participation Financiére', 'Pas de participation financiére'),
         basic('observationInteretDto', 'Observation interet', 'Pas d\'observation interet'),
+        basic('activCollaborateursDto', 'Activité collaborateurs', 'Pas d\'activité de collaborateurs'),
+        L.h3 / 'Informations techniques',
+        L.div(style='border-left:10px solid #444;padding-left:10px') / nice_dump({key: it for key, it in decl.items() if key not in ['general', 'activConsultantDto',
+                    'activProfCinqDerniereDto', 'activProfConjointDto',
+                    'activConsultantDto', 'fonctionBenevoleDto', 'mandatElectifDto',
+                    'participationDirigeantDto', 'participationFinanciereDto', 'observationInteretDto', 'activCollaborateursDto']
+}),
         raw('\n'),
     ))
 
