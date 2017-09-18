@@ -1,8 +1,11 @@
-import json, random
+import json, random, sys
 
 from lys import L, raw
 
 KEYS_BLACKLIST = ('motif',)
+
+def log_error(*args):
+    print('## ERROR ###', *args, file=sys.stderr)
 
 def nice_dump(item, prev_key=None):
     if item is None:
@@ -77,6 +80,12 @@ for decl in DATA:
         global i
         color = ['#4caf50', '#689F38'][i % 2]
         i += 1
+
+        if get(key + '.items.items') and get(key + '.neant') != 'false':
+            log_error('neant != false but items')
+        if not get(key + '.items.items') and get(key + '.neant') != 'true':
+            log_error('neant == true but items')
+
         return L.div(style='border-left:10px solid %s;padding-left:10px' % color) / (
             (
                 L.h3 / title,
@@ -127,11 +136,13 @@ print(
             'source: ',
             L.a(href='http://www.hatvp.fr/consulter-les-declarations/#open-data') / 'hatvp.fr',
         ),
-        # L.br,
-        # L.br,
+        L.br,
+        L.br,
         # L.a(href='index.html') / 'Données',
         # ' ',
         # L.a(href='tops.html') / 'Tops',
+        ' ',
+        L.a(href='stats.html') / '> simple stats',
         L.hr,
         decls,
     )

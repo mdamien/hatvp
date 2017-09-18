@@ -4,7 +4,7 @@ from collections import Counter
 DATA = json.load(open('declarations.json'))['declarations']['declaration']
 
 def attrget(item, key):
-    keys = key.split('.')
+    keys = [k for k in key.split('.') if k]
     for key in keys:
         if type(item) is str:
             return
@@ -13,7 +13,7 @@ def attrget(item, key):
             return
     return item
 
-def stats(key=None, attrget=attrget, limit=10, inception=False, data=None, label=None):
+def stats(key=None, attrget=attrget, limit=40, inception=False, data=None, label=None):
     data = data if data else DATA
     def flat(arr):
         for x in arr:
@@ -40,8 +40,33 @@ def stats(key=None, attrget=attrget, limit=10, inception=False, data=None, label
     if inception:
         stats(key="---> "+key+'-ception', attrget=lambda i, k: i, data=c.values())
 
+print('<pre>') # fancy hack to make it an html page
 stats("origine")
-stats("general.mandat.label")
-stats("general.declarant.email")
-stats("general.declarant.telephoneDec")
-stats("general.declarant.regimeMatrimonial")
+
+ex = DATA[0]
+
+def stats_dict(dic, prefix='', data=None, display_prefix=None):
+    for key, item in sorted(dic.items()):
+        fullkey = prefix + '.' + key
+        if type(item) is dict:
+            stats_dict(item, prefix, data=data, display_prefix=display_prefix)
+        else:
+            stats(fullkey, data=data, label=(display_prefix + ' / ' + fullkey) if display_prefix else None)
+
+stats_dict(ex['general'], 'general')
+
+dto_keys = ['activConsultantDto', 'activProfCinqDerniereDto', 'activProfConjointDto', 'activConsultantDto', 'fonctionBenevoleDto', 'mandatElectifDto', 'participationDirigeantDto', 'participationFinanciereDto', 'observationInteretDto']
+
+def force_list(items):
+    if not items:
+        items = []
+    if type(items) is dict:
+        items = [items]
+    return items
+
+for key in dto_keys:
+    all_items = []
+    for item in DATA:
+        all_items += force_list(attrget(item, key + '.items.items'))
+    ex = all_items[0]
+    stats_dict(ex, data=all_items, display_prefix=key)
