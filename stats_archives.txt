@@ -1,0 +1,94 @@
+
+datasetid    -    601 values, 1 distincts
+----
+100.0% (601) les-entrees-darchives-en-2016-aux-archives-nationales
+
+
+categorie    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+dates_extremes    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+description    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+domaine    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+metrage_lineaire    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+ndeg_d_entree    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+service_producteur    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+statut_juridique    -    601 values, 1 distincts
+----
+100.0% (601) 
+
+
+record_timestamp    -    601 values, 1 distincts
+----
+100.0% (601) 2017-06-09T14:41:47+02:00
+
+
+recordid    -    601 values, 601 distincts
+----
+0.2% (1) 890b5be02d8f65434206c944597ddc9ef394a29f
+0.2% (1) 4b1e167494ad0861ce2363f09e8fae57590770c2
+0.2% (1) a1e8fea68cd752bdf5ffd4b958211158b8854d68
+0.2% (1) bb1f2c4240e40a71f29b1ab2c9feaf0c2eab9415
+0.2% (1) 4765d6fc3ea7a96f6569cb6ecff27681f4304ccf
+0.2% (1) 7782c5c47b4549fed7d0abafc78d110e49010c5e
+0.2% (1) 1323d536c35e5be033afa0295b1eb33f08c8a292
+0.2% (1) 5806313a59ef998d36a5864e7af4ad52907c8d52
+0.2% (1) 0fe114dc75618a623995a2db19b29102d8269b73
+0.2% (1) 6941976c5c1510d714ef0798af00526ecd73278c
+0.2% (1) 0b01ab0314b827338b9927b9c1866bee94110593
+0.2% (1) 2429f4584b631af78c8788eab3d64177945e1f33
+0.2% (1) a45d126d03802a6ace92f9d1cba32462a9cc8a01
+0.2% (1) 3e5a649930d6e7ca3bbf9bf592c099dd707d68d7
+0.2% (1) 9c7a90cf8a940884958848f21e6758b69a2a12c5
+0.2% (1) bce0fad4ff14b3d641dcf725ac8b0fdd3e8d3522
+0.2% (1) 1c3b4d8d26184b2e5c09fe32f6fd0d119ee02dba
+0.2% (1) d3fff69a26cdf860a98be539e3cf9d14a1758dd4
+0.2% (1) 7804e4f4a6fc569ed80274c817494e8b5e2382bc
+0.2% (1) f217cd7aef76c949dabbd1f11d402b9ff21b8e7f
+0.2% (1) 66d8c93835c54212a1b84a46ecc77962d5040059
+0.2% (1) cab967acbd4c35176339b29330b5095b7c9092f7
+0.2% (1) f0428356f68505e726d4f0bc7433b177ce16397f
+0.2% (1) 1c978ca5b35d1bf84c84b9318055de704469f6c8
+0.2% (1) fe61a2d57c4a614247654b43cf5ea7104eaf64b7
+0.2% (1) bdcc3017d8442b73d0d76013b1a63cd4706da568
+0.2% (1) ec7788f82dd131aecff8536d65a98d4003a59f5a
+0.2% (1) dccd73795305d3bac223ce1073ab0bb7bf68e430
+0.2% (1) d52db326964334cfeeef73f7efd33a993c2fc102
+0.2% (1) 669e9b4e05f40e9c7b179f0c3b36febfa85ffd4d
+0.2% (1) ba46020d54fbac038d4efd9c0fe3bafd8560a9d2
+0.2% (1) 7001fe22afdee603fe5087668adf0d7c15f36f20
+0.2% (1) 88cfc12da03e1be9efe63a5d0eedda4fbbcb0d17
+0.2% (1) 24b136702a3e143a56a798c880ecb872f295aada
+0.2% (1) bcff8b0b434445eaacf99a995a3d8d65ec35d2fd
+0.2% (1) 1d1b71e16d47954743478905c3107dba9af5f8d7
+0.2% (1) 2bf3d625d0dbdad862b52ed378a33cd747fe52f4
+0.2% (1) 67c090e5f0e5814073be4bc6b7d07838f44a0aac
+0.2% (1) 0c2cbf4724399ef613d13dcbcbf5c092d7cf6a0c
+0.2% (1) 9d874c6eae8cf92629a5617bc71ab4b2f9f5a829
+

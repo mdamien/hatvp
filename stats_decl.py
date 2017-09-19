@@ -32,7 +32,9 @@ def stats(key=None, attrget=attrget, limit=40, inception=False, data=None, label
     print(label if label else key,"   -   ",count_all,"values,",count_distinct,"distincts")
     print('----')
 
-    for el,n in c.most_common(limit):
+    most_common = c.most_common(limit)
+    most_common.sort(key=lambda x: (-x[1],str(x[0])))
+    for el, n in most_common:
         p = n/count_all*100
         print("{:.1f}% ({}) {}".format(p,n,el))
     print()
@@ -47,9 +49,12 @@ ex = DATA[0]
 
 def stats_dict(dic, prefix='', data=None, display_prefix=None):
     for key, item in sorted(dic.items()):
-        fullkey = prefix + '.' + key
+        fullkey = (prefix + '.' + key) if prefix else key
         if type(item) is dict:
-            stats_dict(item, prefix, data=data, display_prefix=display_prefix)
+            stats_dict(item, fullkey, data=data, display_prefix=display_prefix)
+        elif type(item) is list:
+            # TODO
+            pass
         else:
             stats(fullkey, data=data, label=(display_prefix + ' / ' + fullkey) if display_prefix else None)
 
