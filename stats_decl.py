@@ -8,6 +8,8 @@ def attrget(item, key):
     for key in keys:
         if type(item) is str:
             return
+        if type(item) is list:
+            return
         item = item.get(key,'')
         if item == None:
             return

@@ -4,8 +4,10 @@ from collections import Counter
 DATA = json.load(open('stock.json'))
 
 def attrget(item, key):
-    keys = key.split('.')
+    keys = [k for k in key.split('.') if k]
     for key in keys:
+        if type(item) is str:
+            return
         item = item.get(key,'')
         if item == None:
             return
